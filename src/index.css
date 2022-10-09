@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow';
+    font-style: normal;
+}
+.mainContainer{
+   
+}
+.gray{
+    color: #808080;
+    font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+}
+
+.blue{
+    color: #112B3C;
+    font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
